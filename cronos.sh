@@ -16,6 +16,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+git clone https://github.com/Sukrut4778/gcc-linaro-7.4.1.git ~/Android/Toolchains/linaro-7.4.1-aarch64-linux
+
 # Main Dir
 CR_DIR=$(pwd)
 # Define toolchan path
